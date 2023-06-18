@@ -1,7 +1,10 @@
 # bank_api
 
- Node.js web framework can be used to create the API service.
-REST API endpoints to get the Bank List and its branch details for a specific branch
+** #Node.js web framework can be used to create the API service.
+#REST API endpoints to get the Bank List and its branch details for a specific branch**
+
+Time taken to complete this assignment. Approximately 2 hr including deployment 
+
 
 
 Steps involved in the project 
